@@ -1,11 +1,11 @@
 # IOS-Portfolio-Brown22
 
 
-#New to Github
+# New to Github
 Contributed to new projects for the EPHS IOS team.
-#New to Xcode
+# New to Xcode
 Learned basic principles of Xcode to make IOS apps. 
-#New to Sketch
+# New to Sketch
 Developed skills in designing assets like our stickers in EPHS stickers in Sketch program. 
 
 
