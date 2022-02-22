@@ -2,7 +2,7 @@
 
 ## About
 
-Learned basic principles of Xcode to make IOS apps. Developed skills in designing assets in Sketch program. 
+Learned basic principles of Xcode to make IOS apps. Developed skills in designing assets like our stickers in EPHS stickers in Sketch program. 
 
 
 * Links to Projects I worked on in IOS app development
