@@ -10,5 +10,5 @@ Developed skills in designing assets like our stickers in EPHS stickers in Sketc
 
 
 * Links to Projects I worked on in IOS app development
-  * [blockstock](https://github.com/ElliottB678/blockstock)
+  * [Timescope](https://github.com/ElliottB678/blockstock)
   * [EPHS IOS stickers](https://github.com/EPHS-iOS/Stickers)
