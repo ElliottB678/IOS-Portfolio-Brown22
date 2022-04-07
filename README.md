@@ -8,6 +8,7 @@ Learned basic principles of Xcode to make IOS apps and had collaboration with
 EPHS IOS team members to create projects. 
 # New to Sketch
 Developed skills in designing assets like our stickers in EPHS stickers and IOS app icons. 
+![sticker I created](Eagle head).jpg
 
 
 * Links to Projects I worked on in IOS app development
