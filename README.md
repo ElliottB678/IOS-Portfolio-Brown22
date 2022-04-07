@@ -4,9 +4,10 @@
 # New to Github
 Contributed to new projects for the EPHS IOS team.
 # New to Xcode
-Learned basic principles of Xcode to make IOS apps. 
+Learned basic principles of Xcode to make IOS apps and had collaboration with 
+EPHS IOS team members to create projects. 
 # New to Sketch
-Developed skills in designing assets like our stickers in EPHS stickers in Sketch program. 
+Developed skills in designing assets like our stickers in EPHS stickers and IOS app icons. 
 
 
 * Links to Projects I worked on in IOS app development
