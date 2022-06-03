@@ -9,7 +9,9 @@ EPHS IOS team members to create projects.
 # New to Sketch
 Developed skills in designing assets like our stickers in EPHS stickers and IOS app icons. 
 
-![Eagle head sticker](Eagle head.png)
+# Eagle head sticker
+
+! [Eagle head sticker](Eagle head.png)
 
 
 
