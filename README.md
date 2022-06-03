@@ -12,7 +12,7 @@ Here is a sticker I worked on for our school and the app Icon I made for our gam
 
 ![Eagle head sticker](Eagle_head.png)
 
-![Tower Defense Icon](Icon.png)
+![Tower Defense Icon](icon_60pt@3x.png)
 
 
 
