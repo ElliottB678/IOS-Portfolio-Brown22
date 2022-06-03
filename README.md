@@ -14,6 +14,8 @@ Here is a sticker I worked on for our school and the app Icon I made for our gam
 
 ![Tower Defense Icon](icon_60pt@3x.png)
 
+![Timescope](icon_40pt@3x.png)
+
 ## My take away from this course
 I learned how to collobrate with creators on Xcode and Sketch projects using Github. I learned how to design and integrate assets into Xcode projects and build Icons for IOS apps. I learned how to market and find target audiences for apps using personas, learning the ins and outs of the App store advertising, and incorporating features users want in their apps. I also learned how to design User Interface ideas and integrate them into SwiftUI.
 
