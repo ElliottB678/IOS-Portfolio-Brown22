@@ -11,7 +11,7 @@ Developed skills in designing assets like our stickers in EPHS stickers and IOS 
 
 # Eagle head sticker
 
-! [Eagle head sticker](Eagle head.png)
+![Eagle head sticker](Eagle_head.png)
 
 
 
