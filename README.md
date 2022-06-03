@@ -3,7 +3,7 @@
 
 ## New to Github
 Contributed to new projects for the EPHS IOS team.
-# New to Xcode
+## New to Xcode
 Learned basic principles of Xcode to make IOS apps and had collaboration with 
 EPHS IOS team members to create projects. Worked with processing and managing assets for our IOS game [Tower Defense](https://github.com/EPHS-iOS/Tower-Defense)
 ## New to Sketch
